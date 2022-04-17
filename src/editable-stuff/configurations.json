@@ -2,15 +2,15 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-  "FirstName": "Jeffery",
+  "FirstName": "Ismael",
   "MiddleName": "",
-  "LastName": "John",
+  "LastName": "Ali",
   "devDesc": " | Programmer | Student | Maker | Hacker | Developer ",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/jefferyjohn",
+      "url": "https://github.com/shakirustad",
       "style": "socialicons"
     },
     {
@@ -37,7 +37,7 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "jefferyjohn_",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "Hello! My name is Jeffery John, and I am a 3rd year computer science and public policy student at the University of Georgia. I hope to pursue additional studies in cyber security and law, with the goal of assisting in meaningful policy change.",
+  "aboutDescription": "Hello! My name is Ismael Ali, and I am a 3rd year computer science and public policy student at the University of Georgia. I hope to pursue additional studies in cyber security and law, with the goal of assisting in meaningful policy change.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "jefferyjohn",
