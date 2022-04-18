@@ -1,13 +1,14 @@
 {
-  "name": "website-jeffery-john",
+  "name": "website-asmael-ali",
   "description": "A portfolio website",
-  "homepage": "https://jefferyajohn.com",
+ "homepage": "https://shakirustad.github.io/home"
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Jeffery John",
-    "email": "jefferyjohn2000@gmail.com",
-    "url": "https://github.com/jefferyjohn"
+    "name": "Ismael Ali",
+    "email": "ustadhismailgunia@gmail.com",
+    "url": "https://github.com/shakirustad"
+	
   },
   "dependencies": {
     "@microlink/react": "^5.2.2",
