@@ -1,14 +1,13 @@
 {
-  "name": "website-asmael-ali",
+  "name": "website",
   "description": "A portfolio website",
- "homepage": "https://shakirustad.github.io/home"
+  "homepage": "https://shakirustad.github.io/home",
   "version": "0.1.0",
   "private": true,
   "author": {
     "name": "Ismael Ali",
     "email": "ustadhismailgunia@gmail.com",
     "url": "https://github.com/shakirustad"
-	
   },
   "dependencies": {
     "@microlink/react": "^5.2.2",
