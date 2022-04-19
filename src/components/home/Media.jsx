@@ -41,40 +41,7 @@ class Media extends React.Component {
                                             </p>
                                         </div>
                                     </div>
-                                    <div class="Row no-gutters">
-                                        <div class="Cell">
-                                            <p>
-                                                <LinkPreview url='https://www.forsythnews.com/local/lifestyles/club-at-pinecrest-combines-crafting-with-service/' size='large' />
-                                            </p>
-                                        </div>
-                                        <div class="Cell">
-                                            <p>
-                                                <LinkPreview url='https://twitter.com/jfrum/status/1237008902136434688?s=20' size='large' />
-                                            </p>
-                                        </div>
-                                        <div class="Cell">
-                                            <p>
-                                                <LinkPreview url='https://www.northfulton.com/sports/pinecrest-academy-wins-back-to-back-mock-trial-regional-championship/article_b38112cc-a26f-57b8-a39c-0fb4eafcbb64.html' size='large' />
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div class="Row no-gutters">
-                                        <div class="Cell">
-                                            <p>
-                                                <LinkPreview url='https://www.northfulton.com/sports/pinecrest-academy-named-mock-trial-region-champs/article_25cf38e4-25fc-5e29-9ba8-7a0e86c3ef33.html' size='large' />
-                                            </p>
-                                        </div>
-                                        <div class="Cell">
-                                            <p>
-                                                <LinkPreview url='https://www.gainesvilletimes.com/life/life-top-stories/pinecrest-academy-students-create-bouquet-of-origami-cranes-for-paris-beirut/' size='large' />
-                                            </p>
-                                        </div>
-                                        <div class="Cell">
-                                            <p>
-                                                <LinkPreview url='https://www.redandblack.com/special_projects/cracking-the-code-ugahacks-5-unites-more-than-500-hackers-under-one-roof-for-36/article_e4b3fb8a-4c6c-11ea-a411-4f932859ff77.html' size='large' />
-                                            </p>
-                                        </div>
-                                    </div>
+                                   
                                 </div>
                             </div>
                         </center>
